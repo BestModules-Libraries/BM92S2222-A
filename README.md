@@ -1,13 +1,13 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BMH23M002_V1.0.png" width="320" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BM92S2222-A_V1.0.png" width="320" height="240"> 
 </div> 
 
-BMH23M002 
+BM92S2222-A 
 ===========================================================
 
-The Best Modules BMH23M001 is a high precision 24-bit ADC module, which uses the I2C or SPI communication method. This document provides the description of the BMH23M002 Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the function of obtaining the sensor AD value.
+The Best Modules BM92S2222-A is a fingerprint module, which uses the UART communication method. This document provides the description of the BM92S2222-A Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the functions of fingerprint enrollment and fingerprint identification.
 
-This library can be installed via the Arduino Library manager. Search for **BMH23M002**. 
+This library can be installed via the Arduino Library manager. Search for **BM92S2222-A**. 
 
 Repository Contents
 -------------------
@@ -20,7 +20,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BMH23M002 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bmh23m002.html#tab-product2 )** - Arduino Library Description.
+* **[BM92S2222-A Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bm92s2222-a.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
