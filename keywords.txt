@@ -1,0 +1,36 @@
+#######################################
+# Coloring Map For BM92S2222-A Capacitive Fingerprint Sensor Module
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+BM92S2222_A	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+getEnrollCount	KEYWORD2
+getKeyout	KEYWORD2
+checkEnrolled	KEYWORD2
+isPressFinger	KEYWORD2
+captureFinger	KEYWORD2
+changeBaud	KEYWORD2
+enrollStart	KEYWORD2
+enroll1	KEYWORD2
+enroll2	KEYWORD2
+enroll3	KEYWORD2
+
+verifyID	KEYWORD2
+identify	KEYWORD2
+
+deleteID	KEYWORD2
+deleteAll	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
