@@ -7,6 +7,16 @@ BM92S2222-A
 
 The Best Modules BM92S2222-A is a fingerprint module, which uses the UART communication method. This document provides the description of the BM92S2222-A Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the functions of fingerprint enrollment and fingerprint identification.
 
+#### Applicable types:
+<div align=center>
+
+|Part No.   |Description                   |
+|:---------:|:----------------------------:|
+|BM92S2222-A|fingerprint identification module|
+|BMA92K222  |capacitive fingerprint identification module,contains an adapter board, a connection Line and the BM92S2222-A module |
+
+</div> 
+
 This library can be installed via the Arduino Library manager. Search for **BM92S2222-A**. 
 
 Repository Contents
