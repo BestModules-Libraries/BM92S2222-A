@@ -10,10 +10,10 @@ The Best Modules BM92S2222-A is a fingerprint module, which uses the UART commun
 #### Applicable types:
 <div align=center>
 
-|Part No.   |Description                   |
+|Part No.|Description                   |
 |:---------------:|:----------------------------:|
-|BM92S2222-A   |fingerprint identification module|
-|BMA92K222    |capacitive fingerprint identification module,contains an adapter board, a connection Line and the BM92S2222-A module |
+|BM92S2222-A|fingerprint identification module|
+|BMA92K222|capacitive fingerprint identification module,contains an adapter board, a connection Line and the BM92S2222-A module |
 
 </div> 
 
